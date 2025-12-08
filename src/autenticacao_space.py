@@ -1,5 +1,5 @@
 import requests, json, base64
-from credentials import creds
+from .credentials import creds
 
 
 class AutenticacaoSpace:

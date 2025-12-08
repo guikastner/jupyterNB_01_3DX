@@ -1,5 +1,5 @@
 import requests, json
-from credentials import creds
+from .credentials import creds
 
 
 
